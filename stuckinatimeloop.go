@@ -5,11 +5,11 @@ import (
 )
 
 func main() {
-	var i int
+	var daysNumber int
 
-	i := 0
+	fmt.Scanf("%d", &daysNumber)
 
-	for i := 1; i <= 10; i++ {
-		fmt.Println(i, "Abracadabra")
+	for s := 1; s <= daysNumber; s++ {
+		fmt.Println(s, "Abracadabra")
 	}
 }
