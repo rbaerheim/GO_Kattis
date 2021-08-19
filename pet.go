@@ -13,10 +13,7 @@ func main() {
 		if temptotal > total {
 			total = temptotal
 			winner = i
-		} else {
-			continue
 		}
-
 	}
 	fmt.Println(winner, total)
 }
