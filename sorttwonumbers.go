@@ -1,4 +1,4 @@
-package main
+package sorttwonumbers
 
 import (
 	"fmt"

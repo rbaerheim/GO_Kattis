@@ -1,4 +1,4 @@
-package main
+package ratingproblems
 
 import (
 	"fmt"

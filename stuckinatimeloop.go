@@ -1,4 +1,4 @@
-package main
+package stuckinatimeloop
 
 import (
 	"fmt"

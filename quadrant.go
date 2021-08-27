@@ -1,4 +1,4 @@
-package main
+package quadrant
 
 import "fmt"
 

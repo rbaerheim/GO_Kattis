@@ -1,4 +1,4 @@
-package main
+package jackolantern
 
 import (
 	"fmt"
