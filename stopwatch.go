@@ -1,4 +1,4 @@
-package stopwatch
+package main
 
 import (
 	"fmt"

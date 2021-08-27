@@ -1,4 +1,4 @@
-package jumbojavelin
+package main
 
 import (
 	"fmt"

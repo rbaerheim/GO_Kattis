@@ -1,4 +1,4 @@
-package pet
+package main
 
 import (
 	"fmt"

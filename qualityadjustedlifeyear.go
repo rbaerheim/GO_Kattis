@@ -1,4 +1,4 @@
-package qualityadjustedlifeyear
+package main
 
 import (
 	"fmt"

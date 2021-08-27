@@ -1,4 +1,4 @@
-package solvingforcarrots
+package main
 
 import (
 	"fmt"

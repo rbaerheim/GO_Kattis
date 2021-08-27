@@ -1,4 +1,4 @@
-package planina
+package main
 
 import (
 	"fmt"

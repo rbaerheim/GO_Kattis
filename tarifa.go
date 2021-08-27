@@ -1,4 +1,4 @@
-package tarifa
+package main
 
 import (
 	"fmt"

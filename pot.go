@@ -1,4 +1,4 @@
-package pot
+package main
 
 import (
 	"fmt"

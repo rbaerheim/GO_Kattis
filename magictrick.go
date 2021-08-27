@@ -1,4 +1,4 @@
-package magictrick
+package main
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package taketwostones
+package main
 
 import (
 	"fmt"

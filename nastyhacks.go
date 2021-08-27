@@ -1,4 +1,4 @@
-package nastyhacks
+package main
 
 import (
 	"fmt"

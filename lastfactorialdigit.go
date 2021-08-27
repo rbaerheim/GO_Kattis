@@ -1,4 +1,4 @@
-package lastfactorialdigit
+package main
 
 import (
 	"fmt"

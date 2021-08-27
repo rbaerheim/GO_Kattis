@@ -1,4 +1,4 @@
-package tripletexting
+package main
 
 import (
 	"fmt"
